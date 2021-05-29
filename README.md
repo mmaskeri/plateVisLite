@@ -9,4 +9,5 @@ Please consider acknowledging plateVisLite in publications for which it is used 
 (plateVisLite, Maskeri, M. A., 2021, <github.com/mmaskeri>).
 
 Example default colormap (aligned with provided axes):
+
 ![image](https://user-images.githubusercontent.com/11822744/120084770-9efee900-c098-11eb-8e4f-578953e0867e.png)
